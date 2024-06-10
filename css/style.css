@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+}
+h1{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 15px;
+}
+h4{
+   
+    color: rgb(3, 222, 251); 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 15px; 
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+
+.bg-img > img{
+    height: 450px;
+    width: 400px;
+    margin-left: 35%;
+}
+ #btn{
+    gap:15%;    
+ margin-left: 48%;
+ display: block;
+ height: 55px;
+ width: 100px;
+ border-radius: 10px 100px / 120px;
+ color: rgb(8, 10, 10);
+ font-weight: bolder;
+ background-color: aqua;
+ border-color: purple;
+ scroll-behavior: smooth;
+}

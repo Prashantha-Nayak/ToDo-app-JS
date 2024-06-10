@@ -1,0 +1,50 @@
+h1{
+    text-align:center;
+    background-size: cover;
+    margin-bottom: 50px;
+    
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.type{
+    height: 100px;
+    width: 400px;
+    
+    background: rgb(41, 33, 33);
+    border: 1x solid;
+    margin-bottom: 18px;
+    margin-left: 35%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    border: 1px solid #0033ff;
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+
+
+
+    /*  #todo-container {
+    
+    
+    
+}
+*/
+   
+
+}
+.type .left>img{
+    width: 100px;
+    height: 100px;
+    align-items: start;
+    margin-left: 25px;
+
+}
+.type .right{
+   margin-left: 30%;
+   font-size: 25px;  
+}
